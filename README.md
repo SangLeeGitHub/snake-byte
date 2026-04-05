@@ -1,5 +1,7 @@
 # Snake Byte - Apple II Edition
 
+[English](README_EN.md)
+
 Apple II 레트로 스타일의 스네이크 게임. CRT 모니터 효과, 레벨 시스템, 사운드, 모바일 터치 지원.
 
 ## 실행 방법
